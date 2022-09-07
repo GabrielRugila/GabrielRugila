@@ -31,7 +31,7 @@
 
 <h3> My Projects: <h3>
   <ul>
-    <li>
+    <li> <a href="https://gabrielrugila.github.io/Project-GuessMyNumber/"> <strong>My 1# Project:</strong> Guess My Number</a>
   <ul>
 
 <hr>
