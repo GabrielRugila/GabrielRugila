@@ -29,11 +29,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=750&color=06D442&center=true&width=200&height=75&lines=JavaScript;CSS+Animations;Node+%2B+Express" alt="Typing SVG" /></a>
 <hr>
 
-<h3> My Projects: <h3>
-  <ul>
-    <li> <a href="https://gabrielrugila.github.io/Project-GuessMyNumber/"> <strong>My 1# Project:</strong> Guess My Number</a>
-    <li> <img src="https://user-images.githubusercontent.com/112909127/188975027-ee049636-769d-45ef-af3a-490821172a3b.png" width="300">
-  <ul>
+### My Projects: 
+
+- <a href="https://gabrielrugila.github.io/Project-GuessMyNumber/"> <strong>My 1# Project:</strong> Guess My Number</a>
+<img src="https://user-images.githubusercontent.com/112909127/188975027-ee049636-769d-45ef-af3a-490821172a3b.png" width="300">
+
 
 <hr>
 <p align="left">
