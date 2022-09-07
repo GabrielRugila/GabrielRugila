@@ -1,4 +1,4 @@
-<h2 align="center"> Gab's.exe is loading </h2>
+<h2 align="center"> Gab's.exe is loading <img src="gear.svg"></h2>
 
 <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&pause=750&color=F70731&center=true&vCenter=true&width=1260&height=75&lines=Hello%2C+I'm+Gabriel!;A+software+engineering+student;Who+loves+science+and+future+tech" alt="Typing SVG" /></a>
