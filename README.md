@@ -32,6 +32,7 @@
 <h3> My Projects: <h3>
   <ul>
     <li> <a href="https://gabrielrugila.github.io/Project-GuessMyNumber/"> <strong>My 1# Project:</strong> Guess My Number</a>
+    <li> <img src="https://user-images.githubusercontent.com/112909127/188975027-ee049636-769d-45ef-af3a-490821172a3b.png" width="300">
   <ul>
 
 <hr>
