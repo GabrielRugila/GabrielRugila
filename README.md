@@ -1,15 +1,15 @@
 # GabrielRugila-
 
-<h1 align="center">Hello, I'm Gabriel</h1>
-<h3 align="center">A tech loving student aiming to become a fullstack developer</h3>
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&pause=750&color=F70731&center=true&vCenter=true&width=1260&height=75&lines=Hello%2C+I'm+Gabriel!;A+software+engineering+student;Who+loves+science+and+future+tech" alt="Typing SVG" /></a>
+</h1>
 
-- I’m currently learning **JavaScript**
-
-- How to reach me **GabrielFRdeAlmeida@gmail.com**
+- I’m currently learning **JavaScript** and other frontend tools
 
 - Fun fact **Although I love tech since an early age, I actually used to work with human clinical health.**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">
+
 <p align="left">
 </p>
 
