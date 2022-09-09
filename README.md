@@ -26,7 +26,7 @@
 
 <hr>
 <h3>I’m currently learning: </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=750&color=06D442&center=true&width=200&height=75&lines=JavaScript;CSS+Animations;Node+%2B+Express" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=1000&color=0CDC3B&width=435&lines=JavaScript;CSS+Animations+%2B+Tailwind;Databases+and+SQL+(Postgresql)" alt="Typing SVG" /></a>
 <hr>
 
 ### My Projects: 
