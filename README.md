@@ -20,14 +20,14 @@
 ## Status Quo: 
  - Learning Backend oriented programming
  - Learning:
-    + Java
-    + JavaScript + Node 
-    + SQL 
-    + PHP 
+    + Java + Spring
+    + TypeScript + React 
+    + C# + Unity/Godot 
+    + GO
 
 <hr>
 <h3>I’m currently learning: </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=600&color=0CDC3B&width=600&lines=Java+%2B+Spring;PHP;Databases+and+SQL+(Postgresql,+MariaDB);JavaScript+%2B+Node" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=600&color=0CDC3B&width=600&lines=Java+%2B+Spring;GO;C-Sharp+%2B+Unity;Databases+and+SQL+(Postgresql,+MariaDB);TypeScript+%2B+React" alt="Typing SVG" /></a>
 <hr>
 
 ### My Projects: 
