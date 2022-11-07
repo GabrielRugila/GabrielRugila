@@ -18,16 +18,18 @@
 (aka. Biomedicine/Biomedical Sciences)
 
 ## Status Quo: 
+ - Working towards Data Science
  - Learning Backend oriented programming
  - Learning:
+    + Python + Jupyter Notebook (Numpy, Scipy, Matploitlib, Tensorflow, Pytorch)
+    + GO
+    + C# + Unity/Godot
     + Java + Spring
     + TypeScript + React 
-    + C# + Unity/Godot 
-    + GO
 
 <hr>
 <h3>I’m currently learning: </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=600&color=0CDC3B&width=600&lines=Java+%2B+Spring;GO;C-Sharp+%2B+Unity;Databases+and+SQL+(Postgresql,+MariaDB);TypeScript+%2B+React" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=600&color=0CDC3B&width=600&lines=Python;GO;Java+%2B+Spring;C-Sharp+%2B+Unity;Databases+and+SQL+(Postgresql,+MariaDB);TypeScript+%2B+React" alt="Typing SVG" /></a>
 <hr>
 
 ### My Projects: 
@@ -49,11 +51,11 @@
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>
