@@ -21,7 +21,7 @@
  - Working towards Data Science
  - Learning Backend oriented programming
  - Learning:
-    + Python + Jupyter Notebook (Numpy, Scipy, Matploitlib, Tensorflow, Pytorch)
+    + Python + Jupyter Notebook (Numpy, Pandas, Seaborn, Scipy, Matploitlib, Tensorflow, Pytorch)
     + GO
     + C# + Unity/Godot
     + Java + Spring
