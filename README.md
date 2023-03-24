@@ -19,27 +19,17 @@
 
 ## Status Quo: 
  - Working towards Data Science
- - Learning Backend oriented programming
  - Learning:
-    + Python + Jupyter Notebook (Numpy, Pandas, Seaborn, Scipy, Matploitlib, Tensorflow, Pytorch)
-    + GO
-    + C# + Unity/Godot
-    + Java + Spring
-    + TypeScript + React 
+    + Python, ML and DL, NLP, SkLearn, PyTorch, Keras, Tensorflow
+    + Rust and Tauri
+    + TypeScript and React 
 
 <hr>
 <h3>I’m currently learning: </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=600&color=0CDC3B&width=600&lines=Python;GO;Java+%2B+Spring;C-Sharp+%2B+Unity;Databases+and+SQL+(Postgresql,+MariaDB);TypeScript+%2B+React" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=600&color=0CDC3B&width=600&lines=ML+%2B+DL+with+Python;Rust+%2B+Tauri;TypeScript+%2B+React" alt="Typing SVG" /></a>
 <hr>
 
 ### My Projects: 
-
-- <a href="https://gabrielrugila.github.io/Project-GuessMyNumber/"> <strong>Guess My Number</strong> </a>
-<img src="https://user-images.githubusercontent.com/112909127/188975027-ee049636-769d-45ef-af3a-490821172a3b.png" width="300">
-
-- <a href="https://gabrielrugila.github.io/DiceyGames-JS/"> <strong> A Dicey Game </strong> </a>
-<img src="https://user-images.githubusercontent.com/112909127/190874637-0f1ee32f-8e64-4d02-ab0c-1b769108b7dd.png" width="300">
-
 
 <hr>
 <p align="left">
